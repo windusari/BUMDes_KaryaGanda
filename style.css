@@ -1573,3 +1573,14 @@ html {
     line-height: 1.75rem;
   }
 }
+
+.font-hero-headline {
+  font-family: Playfair Display;
+}
+
+.text-hero-headline {
+  font-size: 40px;
+  line-height: 1.1;
+  letter-spacing: -0.02em;
+  font-weight: 800;
+}
